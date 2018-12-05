@@ -1,0 +1,11 @@
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\bin\DesktopGL\x86\Release\Content\Arial.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\bin\DesktopGL\x86\Release\Content\SpriteMarker.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\bin\DesktopGL\x86\Release\OpenTK.dll.config
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGameLibrary.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGameLibrary.pdb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGame.Framework.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGame.Framework.dll.config
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\monogameBreakout\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.pdb

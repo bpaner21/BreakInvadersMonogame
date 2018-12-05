@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/block_blue.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/block_red.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/block_yellow.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Dot (use for drawing refrenece lines).png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Large Invader 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Large Invader 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Small Invader 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Small Invader 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Medium Invader 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Medium Invader 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Ball.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Paddle.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Invader Shot.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Cornerstone.spritefont</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Mothership.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker Bottom Left 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker Bottom Left 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker Bottom Right 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker Bottom Right 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker Roof Left 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker Roof Left 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker Roof Right 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Bunker Roof Right 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Invader Shot 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 0.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 1.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 2.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 3.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 4.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 5.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 6.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 7.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/UFO 8.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/Explode.png</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/BreakInvadersMonogame/Content/GameOver.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

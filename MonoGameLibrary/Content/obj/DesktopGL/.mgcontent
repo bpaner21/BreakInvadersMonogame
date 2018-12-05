@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/MonoGameLibrary/Content/Arial.spritefont</File>
+    <File>Z:/School/Columbia SP2018/SP2018 Game Programming/BreakInvadersMonogame/MonoGameLibrary/Content/SpriteMarker.png</File>
+  </SourceFiles>
+</SourceFileCollection>

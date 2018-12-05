@@ -1,0 +1,133 @@
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\SpriteMarker.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Ball.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\block_blue.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\block_red.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\block_yellow.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Bottom Left 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Bottom Left 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Bottom Right 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Bottom Right 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Roof Left 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Roof Left 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Roof Right 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Roof Right 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Cornerstone.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Dot (use for drawing refrenece lines).xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Explode.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Invader Shot 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Invader Shot.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Large Invader 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Large Invader 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Medium Invader 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Medium Invader 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Mothership.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Paddle.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Small Invader 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Small Invader 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 0.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 1.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 2.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 3.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 4.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 5.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 6.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 7.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 8.xnb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\OpenTK.dll.config
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\BreakInvadersMonogame.exe
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\BreakInvadersMonogame.pdb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\MonoGameLibrary.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\MonoGameLibrary.pdb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.csprojResolveAssemblyReference.cache
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.csproj.CoreCompileInputs.cache
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.exe
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.pdb
+C:\Users\BJ\Desktop\SP2018 Game Programming\BJPaner\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\GameOver.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Arial.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\SpriteMarker.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Ball.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\block_blue.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\block_red.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\block_yellow.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Bottom Left 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Bottom Left 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Bottom Right 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Bottom Right 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Roof Left 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Roof Left 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Roof Right 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Bunker Roof Right 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Cornerstone.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Dot (use for drawing refrenece lines).xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Explode.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\GameOver.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Invader Shot 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Invader Shot.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Large Invader 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Large Invader 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Medium Invader 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Medium Invader 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Mothership.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Paddle.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Small Invader 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\Small Invader 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 0.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 1.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 2.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 3.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 4.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 5.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 6.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 7.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\Content\UFO 8.xnb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\OpenTK.dll.config
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\BreakInvadersMonogame.exe
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\BreakInvadersMonogame.pdb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\MonoGameLibrary.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\MonoGameLibrary.pdb
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.csprojAssemblyReference.cache
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.csproj.CoreCompileInputs.cache
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.csproj.CopyComplete
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.exe
+Z:\School\Columbia SP2018\SP2018 Game Programming\BreakInvadersMonogame\BreakInvadersMonogame\obj\x86\Debug\BreakInvadersMonogame.pdb
