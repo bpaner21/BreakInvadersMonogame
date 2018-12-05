@@ -1,12 +1,8 @@
 BJ Paner
 
-* Game Name:
+* Game Name: Break Invaders
   
-  Break Invaders
-  
-* Genre:
-  
-  Arcade
+* Genre: Arcade
 
 * Short Description:
   
